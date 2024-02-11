@@ -204,8 +204,8 @@ setError(null);
             <table className="table table-hover">
               <thead>
                 <tr>
-                  <th>IdMarque</th>
-                  <th>Marque</th>
+                  <th>ID</th>
+                  <th>Carburant</th>
                   <th></th>
                   <th></th>
                 </tr>
